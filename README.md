@@ -2,7 +2,7 @@
 
 My personal fork of dwmblocks.
 
-<img width="1071" height="54" alt="image" src="https://github.com/user-attachments/assets/140e56e1-fb7d-4667-9867-3b2f5b5ad0ac" />
+<img width="500" height="54" alt="image" src="https://github.com/user-attachments/assets/140e56e1-fb7d-4667-9867-3b2f5b5ad0ac" />
 
 ### how to use
 
